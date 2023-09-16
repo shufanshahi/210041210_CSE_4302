@@ -1,0 +1,20 @@
+#ifndef STUDENT_
+#define STUDENT_
+
+
+class Student
+{
+    public:
+        Student();
+        virtual ~Student();
+
+        int Getid() { return id; }
+        void Setid(int val) { id = val; }
+
+    protected:
+
+    private:
+        int id;
+};
+
+#endif // STUDENT_

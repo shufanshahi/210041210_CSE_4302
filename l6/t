@@ -1,0 +1,11 @@
+#include "t."
+
+t::t()
+{
+    //ctor
+}
+
+t::~t()
+{
+    //dtor
+}
