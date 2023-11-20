@@ -123,4 +123,5 @@ int main()
     obj1.generateEmail();
     obj1.obtainedMarks(80);
     obj1.printAcademicRecord();
+    
 }

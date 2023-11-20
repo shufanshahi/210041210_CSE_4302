@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "xstring": "cpp",
+        "format": "cpp",
+        "xiosbase": "cpp",
+        "xutility": "cpp",
+        "iostream": "cpp"
+    }
+}
